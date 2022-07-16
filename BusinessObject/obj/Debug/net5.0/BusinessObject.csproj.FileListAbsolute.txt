@@ -1,0 +1,15 @@
+D:\Session_5\PRN211\Practical\PETest\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+D:\Session_5\PRN211\Practical\PETest\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.json
+D:\Session_5\PRN211\Practical\PETest\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.dev.json
+D:\Session_5\PRN211\Practical\PETest\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\Session_5\PRN211\Practical\PETest\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\Session_5\PRN211\Practical\PETest\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+D:\Session_5\PRN211\Practical\PETest\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Session_5\PRN211\Practical\PETest\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Session_5\PRN211\Practical\PETest\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\Session_5\PRN211\Practical\PETest\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Session_5\PRN211\Practical\PETest\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+D:\Session_5\PRN211\Practical\PETest\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+D:\Session_5\PRN211\Practical\PETest\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+D:\Session_5\PRN211\Practical\PETest\BusinessObject\obj\Debug\net5.0\BusinessObject.genruntimeconfig.cache
+D:\Session_5\PRN211\Practical\PETest\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
